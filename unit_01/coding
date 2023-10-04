@@ -1,0 +1,15 @@
+internal class coding
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Kade is going to do some coding");
+        Console.WriteLine(" and going to do some math as well.");
+        Console.WriteLine("1+1=  int myNum = 2 ");
+        Console.WriteLine(" 2*2= int myNum = 2");
+        Console.WriteLine(" 0.5*0.75= double myDoubleNum = 0.375");
+        Console.WriteLine(" .Now i will store an variable, char myLetter = A");
+        Console.WriteLine(" is this anoyying yes or no/true and false bool myBool = true");
+        Console.WriteLine(". now i will write some text explaining what these do, string myText = int is a whole number like ANY whole number, double is a float number that is a 0.5/ decimal number char is an letter that you can store bool is a true or faulse question.");
+        
+    }
+}

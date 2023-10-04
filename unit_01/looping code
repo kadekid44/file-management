@@ -1,0 +1,14 @@
+using System;
+					
+public class Program
+{
+	public void Main()
+	{	
+		string[] numbers ={ "1", "22", "333", "4444", "55555"};
+		Console.WriteLine(numbers[0]);
+		Console.WriteLine(numbers[1]);
+		Console.WriteLine(numbers[2]);
+		Console.WriteLine(numbers[3]);
+		Console.WriteLine(numbers[4]);
+	}
+}
