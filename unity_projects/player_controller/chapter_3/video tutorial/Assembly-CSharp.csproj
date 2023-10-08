@@ -49,7 +49,6 @@
      <Folder Include="Assets" />
      <Folder Include="Assets/video_help" />
      <Folder Include="Assets/Scenes" />
-     <Folder Include="Assets/video_help/git ignore" />
      <Reference Include="UnityEngine">
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
