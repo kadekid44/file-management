@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d03c818-b451-40e8-99fe-542c29a692d4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../unity_projects/test_project/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../unity_projects/test_project/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+    <list default="true" id="ce95f960-4a58-4706-94e1-645e32140d4e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unit_01.dir/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +12,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/code.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="2WH8nvg370UIOZGBMF89m3ceGlj" />
+  <component name="ProjectId" id="2WSXcfJIv3W9f4wCGq2PNOVatcA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,16 +44,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5d03c818-b451-40e8-99fe-542c29a692d4" name="Changes" comment="" />
-      <created>1696378322541</created>
+      <changelist id="ce95f960-4a58-4706-94e1-645e32140d4e" name="Changes" comment="" />
+      <created>1696727039360</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1696378322541</updated>
-      <workItem from="1696378344249" duration="11000" />
+      <updated>1696727039360</updated>
+      <workItem from="1696727041988" duration="38000" />
     </task>
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
